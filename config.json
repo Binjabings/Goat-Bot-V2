@@ -1,7 +1,7 @@
 {
 	"facebookAccount": {
-		"email": "",
-		"password": "",
+		"email": "badhonraj.temp1.com",
+		"password": "badhon.raj",
 		"2FASecret": "",
 		"i_user": "",
 		"proxy": null,
@@ -18,7 +18,9 @@
 		"enable": false,
 		"ignoreCommand": []
 	},
-	"adminBot": [],
+	"adminBot": [
+		"100004819114915",
+	],
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": [],
