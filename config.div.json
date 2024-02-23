@@ -44,14 +44,14 @@
 	"credentials": {
 		"gmailAccount": {
 			"email": "kingbadhon1145@gmail.com",
-			"clientId": "",
-			"clientSecret": "",
-			"refreshToken": "",
+			"clientId": "554542695290-2nk4v3fbboohnkg6sgvr7qif7mr4hvan.apps.googleusercontent.com",
+			"clientSecret": "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",
+			"refreshToken": "1//04cduc6hIDfT_CgYIARAAGAQSNwF-L9IrgX8f6S5UqYztULjMBXKQX-CrFQUcdKE-OvIFnu6yRRL9hAda2foQTi7y6kDgEgomEoA",
 			"apiKey": ""
 		},
 		"gRecaptcha": {
-			"siteKey": "",
-			"secretKey": ""
+			"siteKey": "6Lc4UnYpAAAAAFvuk02fehO76XoXfHVGS7PgDCOH",
+			"secretKey": "6Lc4UnYpAAAAADGHk5NSQWAcKtsXEVYF2Zy_ohkA"
 		}
 	},
 	"dashBoard": {
