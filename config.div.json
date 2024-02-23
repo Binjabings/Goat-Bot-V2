@@ -1,7 +1,7 @@
 {
 	"facebookAccount": {
-		"email": "badhonraj.temp1.com",
-		"password": "badhon.raj",
+		"email": "badhonraj.test2.com",
+		"password": "badhon.2",
 		"2FASecret": "",
 		"i_user": "",
 		"proxy": null,
@@ -12,7 +12,7 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "GoatBot",
+	"nickNameBot": "𝗣𝗶𝗸𝗮 - 𝗕𝗼𝘁 🦋",
 	"prefix": "-",
 	"adminOnly": {
 		"enable": false,
@@ -20,6 +20,7 @@
 	},
 	"adminBot": [
 		"100004819114915",
+		""
 	],
 	"whiteListMode": {
 		"enable": false,
